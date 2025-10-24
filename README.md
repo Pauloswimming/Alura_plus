@@ -1,7 +1,8 @@
 # 🚀 Alura Plus
 [![Deploy](https://img.shields.io/badge/Acesso%20r%C3%A1pido-Deploy%20-167BF7?style=for-the-badge)](https://pauloswimming.github.io/Alura_plus/)
+
 <p align="center">
-  <img src="img/capa_readme.png" alt="Capa principal do projeto Alura Plus" width="650"/>
+  <img src="https://raw.githubusercontent.com/Pauloswimming/Alura_plus/main/img/capa_readme.png" alt="Capa principal do projeto Alura Plus" width="650"/>
 </p>
 
 ## 🌟 Descrição do Projeto
